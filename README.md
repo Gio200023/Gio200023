@@ -5,7 +5,7 @@ Software engineer
 -----------------
 * 🌍  I'm based in Trento, Italy 
 * ✉️  You can contact me at [lunardigiovanni@icloud.com](mailto:lunardigiovanni@icloud.com) 
-* 🧠  I'm learning Continual Learning on embedded devices
+* 🧠  Working at Arcoda s.r.l
 
 ## Skills
 
