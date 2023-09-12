@@ -5,7 +5,7 @@ Software engineer
 -----------------
 * 🌍  I'm based in Leiden, The Netherlands 
 * ✉️  You can contact me at [lunardigiovanni@icloud.com](mailto:lunardigiovanni@icloud.com) 
-* 🧠  Studying at Leiden University
+* 🧠  Studying Computer Science: Advanced and Computing Systems at Leiden University
 
 ## Skills
 
