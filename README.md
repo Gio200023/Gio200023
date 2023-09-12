@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software engineer 
 -----------------
-* 🌍  I'm based in Trento, Italy 
+* 🌍  I'm based in Leiden, The Netherlands 
 * ✉️  You can contact me at [lunardigiovanni@icloud.com](mailto:lunardigiovanni@icloud.com) 
-* 🧠  Working at Arcoda s.r.l
+* 🧠  Studying at Leiden University
 
 ## Skills
 
